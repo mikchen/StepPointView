@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="StepPointView">
+        <attr name="step_counts" format="integer"/>
+        <attr name="visity_image" format="reference"/>
+        <attr name="invisity_image" format="reference"/>
+        <attr name="step_spaceing" format="float"/>
+        </declare-styleable>
+</resources>
